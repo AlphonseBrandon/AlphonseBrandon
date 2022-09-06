@@ -1,6 +1,6 @@
 ![Header!](https://user-images.githubusercontent.com/57611883/154788077-6bd90325-8cf8-4898-b9a0-ebbe4d7dd5fe.png)
 <h1 align="center">Hi 👋, I'm Alphonse Brandon</h1>
-(https://img.shields.io/badge/dynamic/json?url=www.linkedin.com/in/alphonsebrandon&label=LinkedIn&color=blue)
+![Header!](https://img.shields.io/badge/dynamic/json?url=www.linkedin.com/in/alphonsebrandon&label=LinkedIn&color=blue)
 <h3 align="center">Datascientist | I spend my day building intelligent systems that unlock value from data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphonsebrandon&label=Profile%20views&color=0e75b6&style=flat" alt="alphonsebrandon" /> </p>
