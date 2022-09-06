@@ -36,7 +36,7 @@ complex data to gather relevant patterns, correlations and trends used in solvin
   <p align="center">
   <img width="400" src="https://github.com/AlphonseBrandon/Data-Science-Projects/blob/main/Stock%20Price%20Prediction/stock_prediction.jpg" />
   <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <a href="https://github.com/AlphonseBrandon/Data-Science-Projects">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphonseBrandon&repo=Data-Science-Projects&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
