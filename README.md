@@ -34,37 +34,37 @@ complex data to gather relevant patterns, correlations and trends used in solvin
 <br />
 
   <p align="center">
-  <img width="400" src="https://github.com/AlphonseBrandon/Data-Science-Projects/blob/main/Stock%20Price%20Prediction/stock_prediction.jpg" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/AlphonseBrandon/Data-Science-Projects">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphonseBrandon&repo=Data-Science-Projects&theme=tokyonight" />
+  <img width="400" src="https://github.com/AlphonseBrandon/recommendation-engine/blob/master/references/recommendation-engine.drawio.png" />
+  <img width="400" src="https://github.com/AlphonseBrandon/sentiment-analysis-based-on-users-comments/blob/master/refrences/sentiment-analysis.drawio.png" />
+ <a href="https://github.com/AlphonseBrandon/recommendation-engine">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphonseBrandon&repo=recommendation-engine&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+  <a href="https://github.com/AlphonseBrandon/sentiment-analysis-based-on-users-comments">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphonseBrandon&repo=sentiment-analysis-based-on-users-comments&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <img width="400" src="https://github.com/AlphonseBrandon/web-scraper/blob/main/reference/webscraper.drawio.png" />
+  <img width="400" src="https://github.com/AlphonseBrandon/movie-api/blob/master/references/movie-api.drawio.png" />
+  <a href="https://github.com/AlphonseBrandon/web-scraper">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphonseBrandon&repo=web-scraper&theme=tokyonight" />
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+<a href="https://github.com/AlphonseBrandon/movie-api">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphonseBrandon&repo=movie-api&theme=tokyonight" />
 </a>
 </p>
   
 
  <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Central-Africa/Cameroon (CAT)
-</p>
+
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p>Alphonse is a distinguished data scientist with experience in building predictive models, visualizing large and complex data to gather relevant patterns, correlations and trends use in solving advanced business problems.</p>
+
+<p>He is proficient in Machine Learning (supervised and unsupervised learning), predictive modeling, data visualization, feature engineering, feature selection, data mining, python, and SQL.</p>
+
+<p>Alphonse is equally a good communicator, creative thinker, and passionate about building models that solve problems.</p>
+
+<p>He is eager to bring expertise to growing organizations in a challenging data science role and to make an impact that matters!</p.
   
- <p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
-<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p>
+
 
 <br />
 <br /> 
